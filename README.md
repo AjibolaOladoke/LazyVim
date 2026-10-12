@@ -6,7 +6,7 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![LazyVim](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![LazyVim](images/preview.png)](https://github.com/Swift-Tech-Co/LazyVim)
 
 ## ✨ Features
 
@@ -105,6 +105,14 @@ will be automatically loaded by [lazy.nvim](https://github.com/folke/lazy.nvim)
 ## ⚙️ Configuration
 
 Refer to the [docs](https://lazyvim.github.io)
+
+## Sources
+
+Compiled and maintained from upstream [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
